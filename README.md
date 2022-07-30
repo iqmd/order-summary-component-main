@@ -4,14 +4,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
+  - [Author](#author)
 
 
-## Overview
 
 ### The challenge
 
@@ -21,10 +19,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/iqmd/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://iqmd.github.io/order-summary-component-main/)
+- [Solution](https://github.com/iqmd/order-summary-component-main)
+- [Live Site](https://iqmd.github.io/order-summary-component-main/)
 
-## My process
 
 ### Built with
 
@@ -32,10 +29,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-
-
-
 ## Author
-
 - Twitter - [@mdiqdev](https://www.twitter.com/mdiqdev)
 
